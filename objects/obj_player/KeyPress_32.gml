@@ -1,4 +1,5 @@
-
+if(global.perdeu)
+	exit;
 //Fazendo a ave subir
 	vspeed = -5 ;
 	
@@ -10,4 +11,3 @@ if(image_index	< 1)
 
 	image_index		= 1;
 }
-else	layer_destroy(Instances)
