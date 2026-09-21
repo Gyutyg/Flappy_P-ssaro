@@ -1,4 +1,6 @@
 #region Variáveis globais
+
+	
 //Variável para dizer que o player morreu
 	global.perdeu	=	false;
 	
@@ -7,7 +9,13 @@
 	
 
 //variável dos leveis	
-	global.index	=	0;
+	global.index	=	1;
+
+//Array da pontuação necessária para subir de level
+	global.level_up = [100, 250, 500, 800, 1200, 1800, 2500, 3500, 5000];
+	
+//Variável dos coletáveis
+	global.coletavel	= 0;
 	
 #endregion	
 

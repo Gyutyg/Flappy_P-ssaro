@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_colisa",
-  "eventList":[],
+  "%Name":"obj_coletavel_exp",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_colisa",
+  "name":"obj_coletavel_exp",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_colisao",
-    "path":"sprites/spr_colisao/spr_colisao.yy",
+    "name":"spr_coletavel",
+    "path":"sprites/spr_coletavel/spr_coletavel.yy",
   },
   "spriteMaskId":null,
   "visible":true,

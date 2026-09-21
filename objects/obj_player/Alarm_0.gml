@@ -6,4 +6,5 @@
 	//Zerando os pontos
 	global.pontos	= 0;
 //Zerando o level
-	global.index	= 0;
+	global.index	= 1;
+	
