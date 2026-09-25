@@ -8,4 +8,7 @@ else
 	
 }
 //Destruindo o obj ao sair da tela
-if(x <= -64)	instance_destroy();
+
+if(x <= -64){
+	instance_destroy();
+}	

@@ -6,8 +6,8 @@
 	
 	show_debug_message(image_alpha);
 
-	y -= 2
-	x -= 1
+	vspeed = -2
+	hspeed = -1
 
 //Destruindo o obj assim que ele fica invisível
 if(image_alpha <= 0.1)

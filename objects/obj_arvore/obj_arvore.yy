@@ -9,8 +9,8 @@
   "name":"obj_arvore",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Tela do jogo",
+    "path":"folders/Objects/Tela do jogo.yy",
   },
   "parentObjectId":null,
   "persistent":false,

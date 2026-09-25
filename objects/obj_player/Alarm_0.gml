@@ -1,5 +1,5 @@
 //resetando o jogo
-	game_restart();
+//	game_restart();
 
 //Mudando o valor da variável global
 	global.perdeu	= false;
